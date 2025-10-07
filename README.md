@@ -20,6 +20,5 @@ This assignment introduces you to create a site or blog from your GitHub reposit
    - Put URL of your finished course repo under the section "Course Repository URLs" below
 
 ## Course Repository URLs
-
-_Here you should put the URL of your final repository after finishing the given tutorial_
+https://github.com/ayubkhankariev/skills-github-pages-lab-3
 
